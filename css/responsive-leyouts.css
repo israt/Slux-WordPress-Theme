@@ -1,0 +1,2933 @@
+/******************************************** RESPONSIVE STYLES*****************************************/
+/*------------------------------------------------------------------------------------------------------*
+/*******************************************  Author: Dynasty3 *****************************************/
+/**********************************  URL: http://www.dynasty3.co.uk ************************************/
+/*-----------------------------------------------------------------------------------------------------*/
+
+/* ---------- MAX 1500PX ---------- */
+@media only screen and (max-width:1500px) {
+	
+}
+
+/* ---------- MAX 1280PX ---------- */
+@media only screen and (max-width:1280px) {
+
+}
+
+/* ---------- MAX 1199PX ---------- */
+@media only screen and (max-width:1199px) {
+
+
+}
+
+
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+
+}
+	
+/* ---------- MAX 1112PX ---------- */
+@media screen and (min-width:1081px) and (max-width:1200px){
+ul.dropdown{
+		width:100%;
+		}
+ul.dropdown a, ul.dropdown span {
+        padding: 8px 10px;
+        }
+
+}
+
+
+
+/* ---------- MAX 1080PX ---------- */
+@media screen and (min-width:992px) and (max-width:1080px) {
+	ul.dropdown{
+		width:100%;
+		}
+	ul.dropdown a, ul.dropdown span {
+    padding: 8px 10px;
+        }
+		
+
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (min-width:801px) and (max-width:991px){
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+	background:#fff;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+	background:#fff;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+
+.footer-content2 ul li {
+        margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.headphone-img img {
+    float: left;
+}
+.benefits-bg {
+    background: url(../images/bnefit-bg.png) no-repeat;
+    background-position: center bottom;
+    background-size: 50%;
+}
+.menu-area {
+    width: 85%;
+}
+.logo-area {
+    width: 15%;
+}
+
+
+ul.dropdown{
+		width:100%;
+		}
+	ul.dropdown a, ul.dropdown span {
+    padding: 8px 8px;
+        }
+
+
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (min-width:769px) and (max-width:800px){
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-area {
+    width: 85%;
+}
+.logo-area {
+    width: 15%;
+}
+ul.dropdown a, ul.dropdown span {
+    padding: 8px 10px;
+}
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+	background:#fff;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+	background:#fff;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+
+.footer-content2 ul li {
+        margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.headphone-img img {
+    float: left;
+}
+.benefits-bg {
+    background: url(../images/bnefit-bg.png) no-repeat;
+    background-position: center bottom;
+    background-size: 50%;
+}
+
+ul.dropdown{
+		width:100%;
+		}
+ul.dropdown a, ul.dropdown span {
+        padding: 8px 8px;
+        }
+
+	
+
+}
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px){
+	
+}
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (min-width:767px) and (max-width:768px){
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-icon span {
+    background: #000000 url(../images/nav-toggle.png) center no-repeat !important;
+	margin-top: -32px;
+}
+.dnt3-menu, .dnt3-menu ul.dropdown {
+    background:transparent;
+}
+.menu-area {
+    width: 100%;
+	margin-top: -43px;
+}
+.dnt3-menu ul.dropdown {
+    background: transparent;
+    background: #000;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #151515;
+}
+ul.dropdown {
+    border-top: 1px solid #000000;
+}
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+	background:#fff;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+	background:#fff;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+
+.footer-content2 ul li {
+        margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.headphone-img img {
+    float: left;
+}
+.benefits-bg {
+    background: url(../images/bnefit-bg.png) no-repeat;
+    background-position: center bottom;
+    background-size: 50%;
+}
+.dnt3-menu {
+    margin-top: -3px;
+}
+
+
+
+
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (min-width:641px) and (max-width:766px){
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-icon span {
+    background: #000000 url(../images/nav-toggle.png) center no-repeat !important;
+}
+.dnt3-menu, .dnt3-menu ul.dropdown {
+    background:transparent;
+}
+.menu-area {
+    width: 100%;
+	margin-top: -43px;
+}
+.dnt3-menu ul.dropdown {
+    background: transparent;
+    background: #000;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #151515;
+}
+ul.dropdown {
+    border-top: 1px solid #000000;
+}
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+.footer-content2 p {
+    float: left;
+    text-align: left;
+}
+.footer-content2 ul li {
+    float: left;
+    margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.dnt3-menu {
+    margin-top:-31px;
+}
+
+}
+
+
+
+/* ---------- MAX 640PX ---------- */
+@media screen and (min-width:481px) and (max-width:640px){
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-icon span {
+    background: #000000 url(../images/nav-toggle.png) center no-repeat !important;
+}
+.dnt3-menu, .dnt3-menu ul.dropdown {
+    background:transparent;
+}
+.menu-area {
+    width: 100%;
+	margin-top: -43px;
+}
+.dnt3-menu ul.dropdown {
+    background: transparent;
+    background: #000;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #151515;
+}
+ul.dropdown {
+    border-top: 1px solid #000000;
+}
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+.footer-content2 p {
+    float: left;
+    text-align: left;
+}
+.footer-content2 ul li {
+    float: left;
+    margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.dnt3-menu {
+    margin-top:-27px;
+}
+
+}
+
+/* ---------- MAX 480PX ---------- */
+@media screen and (min-width:361px) and (max-width:480px){
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-icon span {
+    background: #000000 url(../images/nav-toggle.png) center no-repeat !important;
+}
+.dnt3-menu, .dnt3-menu ul.dropdown {
+    background:transparent;
+}
+.menu-area {
+    width: 100%;
+	margin-top: -43px;
+}
+.dnt3-menu ul.dropdown {
+    background: transparent;
+    background: #000;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #151515;
+}
+ul.dropdown {
+    border-top: 1px solid #000000;
+}
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+.footer-content2 p {
+    float: left;
+    text-align: left;
+}
+.footer-content2 ul li {
+    float: left;
+    margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.dnt3-menu {
+    margin-top:-16px;
+}
+
+
+}
+
+
+/* ---------- MAX 360PX ---------- */
+@media screen and (min-width:321px) and (max-width:360px) {
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-icon span {
+    background: #000000 url(../images/nav-toggle.png) center no-repeat !important;
+}
+.dnt3-menu, .dnt3-menu ul.dropdown {
+    background:transparent;
+}
+.menu-area {
+    width: 100%;
+	margin-top: -43px;
+}
+.dnt3-menu ul.dropdown {
+    background: transparent;
+    background: #000;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #151515;
+}
+ul.dropdown {
+    border-top: 1px solid #000000;
+}
+section.banner-area {
+    height: auto;
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+.footer-content2 p {
+    float: left;
+    text-align: left;
+}
+.footer-content2 ul li {
+    float: left;
+    margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+.logo-area img {
+    padding-top: 17px;
+}
+.dnt3-menu {
+    margin-top: -13px;
+}
+
+
+
+
+
+
+}
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+header {
+    height: 67px;
+}
+.home-left {
+    width: 100%;
+}
+.home-right {
+    width: 100%;
+}
+.menu-icon span {
+    background: #000000 url(../images/nav-toggle.png) center no-repeat !important;
+}
+.dnt3-menu, .dnt3-menu ul.dropdown {
+    background:transparent;
+}
+.menu-area {
+    width: 100%;
+	margin-top:-49px;
+}
+.dnt3-menu ul.dropdown {
+    background: transparent;
+    background: #000;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #151515;
+}
+ul.dropdown {
+    border-top: 1px solid #000000;
+}
+section.banner-area {
+    height: auto;
+	margin-top:66px
+}
+.banner-caption {
+    margin-top: 25px;
+}
+.banner-caption h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.banner-caption h2 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.banner-caption p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    word-spacing: 0px;
+    padding-bottom: 30px;
+}
+.home-left {
+    width: 100%;
+    padding: 1%;
+}
+.home-left p {
+    padding: 5px 5% 5px 5%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+}
+.home-right p {
+    padding: 10px 5% 10px 5%;
+    text-align: left;
+    font-size: 18px;
+    line-height: 25px;
+}
+.home-right ul {
+    padding-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.home-details {
+    padding-top: 25px;
+	height: auto;
+	padding-bottom: 25px;
+}
+section.technology {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.technology h2 {
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.background h3{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.background p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Li-Fi h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Li-Fi p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+.Prin h3 {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.Prin p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom:10px;
+}
+section.limits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+iframe {
+    height: auto !important;
+}
+.limits h3 {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+section.future {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.future h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+section.future p {
+    font-size: 14px;
+}
+section.video-1 {
+    padding-top: 20px;
+}
+.p-bot {
+    padding-bottom: 0px;
+}
+.video-1-left {
+    padding-left: 0px;
+}
+.video-1-left h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-1-left p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.video-2 {
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.video-2-right {
+    padding-left: 0px;
+}
+.video-2-right h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-2-right p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+section.products {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.products h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.headphone-content {
+    padding-right: 0px;
+}
+.headphone-content h3{
+	font-size: 18px;
+	}
+section.speaker {
+    height: auto;
+}
+
+section.speaker h2 {
+    font-weight: 500;
+    padding-top: 20px;
+	font-size: 22px;
+}
+section.speaker p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    padding-bottom: 20px;
+}
+section.speaker-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.speaker-advantages h3 {
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.wireless-speaker {
+    width: 100%;
+    padding-top: 25px;
+	height:auto;
+	margin-bottom:10px;
+}
+section.wireless-speaker p {
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+section.paint {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: auto;
+}
+section.paint h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+section.paint h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.single-ex1 {
+    width: 100%;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+.single-ex1 p {
+    font-size: 16px;
+}
+.single-ex2 {
+    height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.example h3 {
+    font-size: 22px;
+}
+.single-ex2 p {
+    font-size: 16px;
+}
+section.benefits {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.benefits h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.ben {
+    padding-right: 0px;
+	margin-bottom: 10px;
+}
+.ben p span {
+    font-size: 20px;
+}
+section.micro {
+    height: auto;
+}
+section.micro h2 {
+    font-weight: 500;
+    padding-top: 20px;
+    font-size: 22px;
+	margin-bottom:0px;
+}
+section.micro p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+section.micro-advantages {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+section.micro-advantages h3 {
+    font-size: 22px;
+	font-weight: 500;
+}
+section.cam {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section.cam h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.who-content2 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+section.who h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.who-content1 {
+    height: auto;
+    min-height: auto;
+    padding: 10px 5% 10px 5%;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer-content {
+    padding-right: 0px;
+}
+.footer-content2 {
+    padding-right: 0px;
+}
+.footer-content2 ul {
+    float: left;
+}
+.footer-content2 p {
+    float: left;
+    text-align: left;
+}
+.footer-content2 ul li {
+    float: left;
+    margin-top: 10px;
+}
+.footer-content2 ul li i {
+    margin-right: 10px;
+}
+.single-ex2{
+	min-height:auto;
+	}
+
+.speaker-advantages {
+    padding-top: 5px;
+}
+section.micro p {
+    padding-bottom: 5px;
+}
+section.micro img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.single-ex1 img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.single-ex3 {
+    padding: 1%;
+	 min-height: auto;
+}
+.single-ex3 img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.logo-area img {
+    padding-top: 17px;
+}
+.dnt3-menu {
+    margin-top: -13px;
+}
+
+
+
+
+
+
+
+}
